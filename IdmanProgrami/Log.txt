@@ -1,0 +1,6 @@
+İdman Programı....
+Yapılan Burpe Sayısı: 10 
+Yapılan Puspuh Sayısı: 10 
+Yapılan Situp Sayısı: 10 
+Yapılan Squat Sayısı: 10 
+1.İşlem------>Hareket: BurpeSayı: 102.İşlem------>Hareket: PuspuhSayı: 103.İşlem------>Hareket: Situp20Sayı: 104.İşlem------>Hareket: SitupSayı: 155.İşlem------>Hareket: SquatSayı: 106.İşlem------>Hareket: ,SitupSayı: 07.İşlem------>Hareket: SitupSayı: 10
